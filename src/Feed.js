@@ -95,4 +95,5 @@ const q = query(collectionRef,orderBy("timestamp","desc"))
   )
 }
 
+
 export default Feed
